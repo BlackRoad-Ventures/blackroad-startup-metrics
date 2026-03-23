@@ -1,5 +1,13 @@
 # blackroad-startup-metrics
 
+> Startup KPI and metrics tracking
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-Ventures](https://github.com/BlackRoad-Ventures)
+
+---
+
+# blackroad-startup-metrics
+
 ![CI](https://github.com/BlackRoad-Ventures/blackroad-startup-metrics/actions/workflows/ci.yml/badge.svg)
 ![Python](https://img.shields.io/badge/python-3.11%2B-blue)
 
